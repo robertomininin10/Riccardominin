@@ -1,20 +1,14 @@
-Allarmi. Scorrerie di soldati. Entra NORFOLK con soldati, combattendo.
+Clamori marziali. Scorrerie. Entrano (Norfolk e soldati, poi dall’altra porta) Catesby.
 
-Gli viene incontro di corsa CATESBY
+CATESBY
 
-CATESBY 
-	
+Soccorso! Monsignore di Norfolk, soccorso, soccorso!
 
-Correte, aiuto, signor di Norfolk!
+Il re fa prodigi sovrumani,
 
-Il re compie prodigi sovrumani
+sfidando ad oltranza ogni avversario.
 
-di valore, incurante d’ogni rischio.
-
-Gli hanno ucciso il cavallo,
-
-e lui, a piedi, seguita a combattere;
-
+Gli hanno ucciso il cavallo, ed egli si batte a piedi, [giusta]
 e nell’ansia di battersi con Richmond
 
 si caccia nelle fauci della morte.
